@@ -1,0 +1,97 @@
+.abi1
+{
+  width: 100%;
+}
+.abi2 
+{
+  width: 100%;
+}
+.abi2 img
+{
+  border-radius: 50%; 
+  padding: 10px;
+    background: blue;
+    
+} 
+.abi2 img:hover
+{
+  background: gold;
+}
+.abi3 
+{
+  width: 100%;
+}
+.abi3 img
+{
+  border-radius: 50%;
+  padding: 10px;
+    background: blue;
+    
+}
+.abi3 img:hover
+{
+  background: gold;
+}
+.abi4
+{
+  width: 100%;
+}
+.abi4 img
+{
+  border-radius: 50%;
+  padding: 10px;
+    background: blue;
+    
+}
+.abi4 img:hover
+{
+  background: gold;
+}
+.logo 
+{
+  width: 10%;
+}
+.mycart 
+{
+  width: 3%;
+}
+.abi31 
+{
+  width: 100%;
+  height: 330px;
+}
+.image1 
+{
+  width: 100%;
+  background: grey;
+  padding: 10px;
+  height: 300px;
+  border-radius: 30px;
+}
+.image1:hover
+{
+  background: skyblue;
+}
+.switch 
+{
+   background: #e3ceaa;
+   padding: 35px;
+   width: 100%;
+}
+.product
+{
+  width: 85%;
+}
+.about3 
+{
+  padding: 20px;
+  text-align: center;
+  background: #376182;
+  color: whitesmoke;
+  border-radius: 30px;
+}
+.abi21
+{
+  width: 12%;
+}
+
